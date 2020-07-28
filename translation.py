@@ -25,7 +25,7 @@ This is a Telegram Rename Bot!
     HELP_USER = """Hai am Rename bot..
     
 1. Send me any Telegram File.
-2. Reply to that message to /rename new name.extension.
+2. Reply to that message to /rename new name.extension."""
    
 
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
